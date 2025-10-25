@@ -35,7 +35,7 @@ function App() {
   return (
     <div style={{ width: "100vw", height: "100vh" }}>
       <AvatarCreator
-        subdomain="nexavatar.readyplayer.me/avatar"
+        subdomain="avatar"
         config={config}
         style={style}
         onAvatarExported={handleOnAvatarExported}
